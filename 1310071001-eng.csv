@@ -1,0 +1,73 @@
+﻿"Mortality rates, by age group 1 2 3 4 5 6 7 8 9 10 11 12 13"
+"Frequency: Annual"
+"Table: 13-10-0710-01 (formerly CANSIM 102-0504)"
+"Release date: 2020-11-26"
+"Geography: Canada, Province or territory"
+""
+""
+
+"Geography, place of residence 14 15","Canada, place of residence",,,,
+"Sex","Both sexes",,,,
+"Characteristics 16","Mortality rate per 1,000 population 17 18 19 20 21",,,,
+"Age at time of death 22","2015","2016","2017","2018","2019"
+,"Rates per 1,000 population",,,,
+"Age at time of death, all ages","7.4","7.4","7.5","7.7","7.6"
+"Age at time of death, under 1 year","4.5","4.5","4.4","4.5","4.4"
+"Age at time of death, 1 to 4 years","0.2","0.2","0.2","0.2","0.2"
+"Age at time of death, 5 to 9 years","0.1","0.1","0.1","0.1","0.1"
+"Age at time of death, 10 to 14 years","0.1","0.1","0.1","0.1","0.1"
+"Age at time of death, 15 to 19 years","0.3","0.3","0.4","0.3","0.3"
+"Age at time of death, 20 to 24 years","0.5","0.5","0.6","0.6","0.5"
+"Age at time of death, 25 to 29 years","0.6","0.6","0.7","0.7","0.7"
+"Age at time of death, 30 to 34 years","0.7","0.7","0.8","0.8","0.8"
+"Age at time of death, 35 to 39 years","0.8","0.9","0.9","1.0","0.9"
+"Age at time of death, 40 to 44 years","1.2","1.2","1.2","1.2","1.2"
+"Age at time of death, 45 to 49 years","1.8","1.9","1.9","1.8","1.8"
+"Age at time of death, 50 to 54 years","3.0","3.0","3.0","2.9","2.8"
+"Age at time of death, 55 to 59 years","4.8","4.7","4.6","4.6","4.5"
+"Age at time of death, 60 to 64 years","7.5","7.4","7.3","7.2","7.0"
+"Age at time of death, 65 to 69 years","11.2","11.3","11.0","11.1","10.8"
+"Age at time of death, 70 to 74 years","18.0","17.7","17.7","17.2","17.1"
+"Age at time of death, 75 to 79 years","29.2","28.8","28.5","29.0","27.9"
+"Age at time of death, 80 to 84 years","52.1","49.8","50.0","50.6","49.1"
+"Age at time of death, 85 to 89 years","91.0","87.7","89.2","91.5","88.8"
+"Age at time of death, 90 years and over","188.1","183.0","189.9","190.4","188.4"
+"Age at time of death, not stated 23","0.0","0.0","0.0","0.0",".."
+
+Symbol legend:
+.., not available for a specific reference period
+
+
+
+
+
+
+Footnotes:
+1,"Sources: Statistics Canada, Canadian Vital Statistics, Birth and Death Databases and Centre for Demography (population estimates)"
+2,"Death refers to the permanent disappearance of all evidence of life at any time after a live birth has taken place. Stillbirths are excluded."
+3,"The population estimates used for the 1991 to 1999 mortality rate calculations are July 1 revised intercensal estimates (1991 to 1995) or final intercensal estimates (1996 to 1999), adjusted for net census undercoverage and include non-permanent residents. These population estimates appear in the publication "Annual Demographic Statistics, 2003" (catalogue number 91-213-XIB/XPB)."
+4,"The population estimates used for the 2000 mortality rate calculations are July 1, 2000 updated postcensal estimates, adjusted for net census undercoverage and include non-permanent residents. These population estimates appear in the publication "Annual Demographic Statistics, 2001" (catalogue number 91-213-XIB/XPB)."
+5,"The population estimates used for the 2001 mortality rate calculations are July 1, 2001 updated postcensal estimates, adjusted for net census undercoverage and include non-permanent residents. These population estimates appear in the publication "Annual Demographic Statistics, 2002" (catalogue number 91-213-XIB/XPB)."
+6,"The population estimates used for the 2002 mortality rate calculations are July 1, 2002 updated postcensal estimates, adjusted for net census undercoverage and include non-permanent residents. These population estimates appear in the publication "Annual Demographic Statistics, 2003" (catalogue number 91-213-XIB/XPB)."
+7,"The population estimates used for the 2003 mortality rate calculations are July 1, 2003 updated postcensal estimates, adjusted for net census undercoverage and include non-permanent residents. These population estimates appear in the publication "Annual Demographic Statistics, 2004" (catalogue number 91-213-XIB/XPB)."
+8,"The population estimates used for the 2004 mortality rate calculations are July 1, 2004 updated postcensal estimates, adjusted for net census undercoverage and include non-permanent residents. These population estimates appear in the publication "Annual Demographic Statistics, 2005" (catalogue number 91-213-XIB/XPB)."
+9,"For data years 2005 to 2009, the population estimates used for the calculations of the mortality rate are presented in the Appendix 1 of the publication "Deaths" for the respective year (catalogue number 84F0211XWE)."
+10,"Starting with the 2010 data year, information regarding the population estimates used for the mortality rate calculations is found in the "Data sources" entry for survey number 3233."
+11,"During the production of each year's birth/death/stillbirth statistics, data from previous years may be revised to reflect any updates or changes that have been received from the provincial and territorial vital statistics registrars."
+12,"2017 to 2019 data for Yukon are not available."
+13,"Due to improvements in methodology and timeliness, the duration of data collection has been shortened compared to previous years. As a result, there may have been fewer deaths captured by the time of the release. The 2016 to 2019 data are considered preliminary."
+14,"The geographic distribution of deaths in this table is based on the deceased's usual place of residence."
+15,"Nunavut and the Northwest Territories (excluding Nunavut) came into existence on April 1, 1999. Data for these two territories are shown combined and separated for 1999 and separated from 2000 on. Historical data prior to 1999 are shown for the two territories combined as the "Northwest Territories including Nunavut" series; it was terminated in 1999. The vital statistics data that pertain to these territories for 1999 were previously published on the basis of the legal definition of each territory, as per the date of the event. Vital events for Nunavut that occurred before April 1, 1999 were tabulated with those of the Northwest Territories; only those events that occurred from April 1, 1999 on were tabulated separately. See the paper versions of the following publications for data year 1999: catalogue numbers 84F0001XPB, 84F0210XPB, 84F0211XPB, 84F0208XPB and 84F0209XPB."
+16,"The following standard symbols are used in this Statistics Canada table: (..) for figures not available for a specific reference period, (...) for figures not applicable and (x) for figures suppressed to meet the confidentiality requirements of the Statistics Act."
+17,"For "Age at time of death, all ages", the mortality rate represents the crude death rate, or the number of deaths during a given year per 1,000 population as of July 1 of the same year."
+18,"For "Age at time of death, under 1 year", mortality rate calculation uses live births in calendar year instead of the under one year of age population. Starting with the 2012 reference year, the mortality rate is based on the estimated population under one year of age."
+19,"For "Age at time of death, 1 to 4 years", mortality rate calculation uses population estimates for 0 to 4 year olds less live births in calendar year. Starting with the 2012 reference year, the mortality rate for 1 to 4 year olds is based on the population estimate for this age group."
+20,"For "Age at time of death", all age groups except "all ages", the mortality rate represents the age-specific death rate, or the number of deaths in a particular age group during a given year per 1,000 population in the same age group as of July 1 of the same year."
+21,"Data for Yukon are available until 2016. From 1991 to 2016, the mortality rate for Canada includes all provinces and territories. From 2017 to 2019 the mortality rate for Canada does not include Yukon."
+22,"Age attained at the last birthday preceding death."
+23,"Starting with the 2010 data year, age is imputed where unknown."
+
+
+
+"How to cite: Statistics Canada. Table 13-10-0710-01  Mortality rates, by age group"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310071001
